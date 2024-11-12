@@ -1,0 +1,12 @@
+langchain-openai
+langchain
+SQLAlchemy
+fastapi
+uvicorn
+httpx
+beautifulsoup4
+lxml
+psycopg2
+black
+pytest
+pytest-asyncio
